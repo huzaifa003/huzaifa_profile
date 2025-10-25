@@ -53,18 +53,9 @@ export default function ProfilePage() {
         "Integrated face swapping into video pipeline and deployed on serverless platform (Cerebrium)",
         "Researched and implemented motion models (Mimic-Motion, Open-Sora) and their pipelines",
         "Worked on generative AI APIs and structured outputs to build RAG pipelines",
-      ],
-    },
-    {
-      title: "Software Engineer",
-      company: "Yottacom Technologies",
-      location: "Lahore, Pakistan",
-      period: "Jul 2024 – Oct 2024",
-      highlights: [
         "Built ingestion pipeline using FAISS integrating web crawlers, PDFs, and OCR-processed images",
         "Connected FAISS with RAG framework under Agile methodologies for feature integration",
         "Deployed deep learning pipelines for Stable Diffusion with LoRA and DreamBooth fine-tuning",
-        "Developed and deployed face swap pipeline on AWS server with optimized performance",
       ],
     },
   ]
@@ -452,7 +443,7 @@ export default function ProfilePage() {
               className="border-2 border-white text-white hover:bg-white/10 bg-transparent font-semibold"
               asChild
             >
-              <a href="https://linkedin.com/in/muhammadhuza" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/m-huzaifa-imran/" target="_blank" rel="noopener noreferrer">
                 Connect on LinkedIn
               </a>
             </Button>
